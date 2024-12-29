@@ -1,8 +1,3 @@
-##############################################################
-######## Final Project Code ##################################
-######## Submission by: Palvi Sharma #########################
-##############################################################
-
 # PRICE AND AUTOMOBILE
 
 automobile_data = read.csv("C:/Users/Palvi/Desktop/Fall Semester/MGSC 661 - Serpa/FINAL PROJECT/Dataset 5 — Automobile data.csv")
